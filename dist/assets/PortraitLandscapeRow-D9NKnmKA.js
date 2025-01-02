@@ -1,0 +1,1 @@
+import{j as s}from"./index-C60lxPL-.js";const c=o=>s.jsxs("div",{className:"grid lg:grid-cols-3 grid-cols-1 gap-4",children:[s.jsx("div",{className:"",children:o.componentOne}),s.jsx("div",{className:"col-span-2",children:o.componentTwo})]});export{c as P};
